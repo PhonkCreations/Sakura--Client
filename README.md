@@ -34,3 +34,4 @@ A Minecraft Fabric client for **1.21.4** with a custom pink GUI, falling petals,
 git clone https://github.com/PhonkCreations/Sakura-Client.git
 cd Sakura-Client
 ./gradlew build
+!! this client is new and might have some bugs!!
